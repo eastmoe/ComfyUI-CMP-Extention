@@ -1,7 +1,7 @@
 
 # ComfyUI-CMP-Extention
 
-i[](./static/2026-02-08-123234.png)
+i[img](./static/2026-02-08-123234.png)
 
 [中文](./README_zh.md)
 
