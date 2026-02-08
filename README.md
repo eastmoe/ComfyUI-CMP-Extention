@@ -1,7 +1,7 @@
 
 # ComfyUI-CMP-Extention
 
-[./static/2026-02-08-123234.png](https://github.com/eastmoe/ComfyUI-CMP-Extention/blob/main/static/2026-02-08-123234.png?raw=true)
+![./static/2026-02-08-123234.png](https://github.com/eastmoe/ComfyUI-CMP-Extention/blob/main/static/2026-02-08-123234.png?raw=true)
 
 [中文](./README_zh.md)
 
