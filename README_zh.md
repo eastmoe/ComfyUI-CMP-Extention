@@ -1,7 +1,7 @@
 # ComfyUI-CMP-Extention
 
 ## 简介
-ComfyUI-CMP-Extention 是一个专为 **170HX显卡** 设计的 ComfyUI 加速扩展插件。它基于 **["Instruction-Level Performance Analysis and Optimization Strategies for Constrained AI Accelerators A Case Study of CMP 170HX"](https://github.com/eastmoe/cmp_ext/blob/main/paper/paper_20260208.pdf). ** 的研究成果，通过优化特定算子来提升推理性能。本扩展需要与 [cmp_ext](https://github.com/eastmoe/cmp_ext) 库配合使用。
+ComfyUI-CMP-Extention 是一个专为 **170HX显卡** 设计的 ComfyUI 加速扩展插件。它基于 **["Instruction-Level Performance Analysis and Optimization Strategies for Constrained AI Accelerators A Case Study of CMP 170HX"](https://github.com/eastmoe/cmp_ext/blob/main/paper/paper_20260208.pdf).** 的研究成果，通过优化特定算子来提升推理性能。本扩展需要与 [cmp_ext](https://github.com/eastmoe/cmp_ext) 库配合使用。
 
 ## 安装方法
 
