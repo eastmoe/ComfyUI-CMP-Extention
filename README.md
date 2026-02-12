@@ -6,7 +6,7 @@
 [中文](./README_zh.md)
 
 ## Introduction
-ComfyUI-CMP-Extention is a ComfyUI acceleration extension designed specifically for the **170HX GPU**. Based on research findings from **[Insert Paper Name Here]**, it enhances inference performance by optimizing specific operators. This extension requires the use of the [cmp_ext](https://github.com/eastmoe/cmp_ext) library.
+ComfyUI-CMP-Extention is a ComfyUI acceleration extension designed specifically for the **170HX GPU**. Based on research findings from **["Instruction-Level Performance Analysis and Optimization Strategies for Constrained AI Accelerators A Case Study of CMP 170HX"](https://github.com/eastmoe/cmp_ext/blob/main/paper/paper_20260208.pdf). **, it enhances inference performance by optimizing specific operators. This extension requires the use of the [cmp_ext](https://github.com/eastmoe/cmp_ext) library.
 
 ## Installation
 
